@@ -1,12 +1,12 @@
 # E-CycleAI
 AI-powered electronic waste cycle for efficient E-Waste management (SDG 12)  
-EcycleAI/
-│── frontend/        # React.js + Tailwind CSS (Web App)
-│   ├── src/
-│   │   ├── components/  # Reusable UI components
-│   │   ├── pages/       # Different pages/screens
-│   │   ├── assets/      # Images, logos, icons
-│   │   ├── utils/       # Helper functions
+EcycleAI/  
+│── frontend/        # React.js + Tailwind CSS (Web App)  
+│   ├── src/  
+│   │   ├── components/  # Reusable UI components  
+│   │   ├── pages/       # Different pages/screens  
+│   │   ├── assets/      # Images, logos, icons  
+│   │   ├── utils/       # Helper functions  
 │   │   ├── App.js       # Main app component
 │   │   ├── index.js     # Entry point
 │   ├── public/          # Static files
