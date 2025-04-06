@@ -1,4 +1,4 @@
-# E-CycleAI
+# E-CycleAI (EcoSort)
 AI-powered electronic waste cycle for efficient E-Waste management, aligns with the sustainable development goal 12 (SDG 12)  
 
 # Project Structure:  
